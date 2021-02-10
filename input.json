@@ -1,0 +1,7 @@
+{
+    "s3_bucket":"<your s3 bucket>",
+    "job_id":"labeling job id",
+    "ground_truth_job_name":"labeling job name",
+    "yolo_output_dir":"where to save the annot files to",
+    "photo_dir":"directory that houses photos"
+}
